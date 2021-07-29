@@ -11,3 +11,6 @@ body{
 .grayImg{
     filter: grayscale(100%);
 }
+.fontColor{
+    color: #E76F51;
+}
